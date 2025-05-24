@@ -90,4 +90,6 @@ These additions will transform it into a comprehensive digital healthcare soluti
 ## Author
 
 *Varun Agarwal*  
+Btech, Computer Science'27
+Swami Keshvanand Institute of technology
 
